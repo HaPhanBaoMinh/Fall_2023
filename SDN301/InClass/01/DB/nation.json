@@ -1,0 +1,54 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "name": "Lionel Messi",
+      "age": 34,
+      "nation_id": "1"
+    },
+    {
+      "id": 2,
+      "name": "Cristiano Ronaldo",
+      "age": 36,
+      "nation_id": "2"
+    },
+    {
+      "id": 3,
+      "name": "Neymar Jr.",
+      "age": 29,
+      "nation_id": "3"
+    },
+    {
+      "id": 4,
+      "name": "Kylian Mbappe",
+      "age": 22,
+      "nation_id": "4"
+    }
+  ],
+  "nations": [
+    {
+      "id": 1,
+      "name": "Argentina",
+      "capital": "Buenos Aires",
+      "population": 45000000
+    },
+    {
+      "id": 2,
+      "name": "Portugal",
+      "capital": "Lisbon",
+      "population": 10300000
+    },
+    {
+      "id": 3,
+      "name": "Brazil",
+      "capital": "Brasília",
+      "population": 212559417
+    },
+    {
+      "id": 4,
+      "name": "France",
+      "capital": "Paris",
+      "population": 67564218
+    }
+  ]
+}
